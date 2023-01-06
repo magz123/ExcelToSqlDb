@@ -27,7 +27,7 @@ This project is created using **C#** via **Visual Studio 2023**
 | File Location | The folder location of the file to be imported ex. `C:\tmp\` |
 | FileName | The file name ex. `file`.xlsx |
 | Extension | The extension name of the file ex. file.`xlsx`  |
-| Schema | The schema of the table ex. `dbo` |
+| Schema | The schema of the table ex. `dbo` - in **dbo.Person** |
 | TableName | The table name ex. `Person` - in **dbo.Person** |
 
 | CheckBoxes | Description |
