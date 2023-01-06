@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ExcelToSql/ExcelToSql.csproj.user
+/packages
+/ExcelToSql/bin
+/ExcelToSql/obj
+/.vs
