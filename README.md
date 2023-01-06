@@ -49,7 +49,6 @@ This project is created using **C#** via **Visual Studio 2023**
 | .xls      | -                | BIFF4       | 4.0 |
 | .xls      | -                | BIFF3       | 3.0 |
 | .xls      | -                | BIFF2       | 2.0, 2.2 |
-| .csv      | -                | CSV         | (All) |
 
 # Credits To
 - [ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) for the amazing `ExcelDataReader` and `ExcelDataReader.DataSet` libraries
